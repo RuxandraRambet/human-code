@@ -2,7 +2,7 @@
 DIAGRAMMA DI FLUSSO
 
 Esercizio svolto in team partendo dal seguente problema:
-
+##
 Ordinare una pizza
 
 Tu non hai fame?!
